@@ -1,8 +1,8 @@
 Prerequisites ⭐
-Before you begin, ensure you have met the following requirements:
-✅   You have Android Studio installed in your machine
-✅   You have a Android Device or Emulator with Android Version 6.0 or above.
-✅   You have read CometChat Key Concepts.
+- Before you begin, ensure you have met the following requirements:
+  - ✅   You have Android Studio installed in your machine
+  - ✅   You have a Android Device or Emulator with Android Version 6.0 or above.
+  - ✅   You have read CometChat Key Concepts.
 
 Running the sample app 🚀
 To Run to sample app you have to do the following changes by Adding APP_ID, AUTH_KEY and REGION
